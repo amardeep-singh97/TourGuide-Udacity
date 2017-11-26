@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="places_one">The Sheesh Mahal was built Sheesh Mahalbehind the main Moti Bagh Palace to serve as a pleasure complex.The paintings in two of its well maintained , mirror-worked chambers are of Kangra and Rajasthani qalam, depicting the poetic visions of Keshav, Surdas and Bihari. The Sheesh Mahal now houses a museum, an art gallery, the famed medal gallery and also the North Zone Cultural Centre.</string>
+    <string name="places_two">The villagers of Lehal donated land for the modest Gurudwara built on this elevated site, said to have been visited by Guru Teg Bahadur. The legend is that anyone who prays at this Gurudwara is relieved of his suffering dukhniwaran. A new bigger building is now being constructed.</string>
+    <string name="getdirection">Get Directions</string>
+    <string name="uri_place_one">String.format(Locale.ENGLISH,"geo:30.3467846,76.3390131?z=11")</string>
+    <string name="places_three">The Qila Mubarak complex stands in 10-acre ground in the heart of the city, and contains the main palace or Qila Androon (literally,inner fort), the guesthouse or Ran Baas and the Darbar Hall. Outside the Qila are the Darshani Gate, a Shiva temple, and bazaar shops which border the streets that run around the Qila and sell precious ornaments, colorful hand-woven fabrics, jootis and bright Parandis.</string>
+    <string name="places_four">Netaji Subhas National Institute of Sports, Patiala India which is also Asia\'s largest Sports Institutes housed in the palatial monumental building and sprawling lawns built by the erstwhile Maharaja of Patiala whose descendants dedicated this complex for the promotion of sports to the people of India. This Institute is popularly known as the "Mecca" of Indian Sports and has produced Coaches of high caliber.</string>
+    <string name="food_one">Located in pristine, lush green baradari gardens, in the heart of the Patiala city is the majestic red-tiled and tilted roofed building of the club, Completed in 1890\'s, it resembles the pavilion of the Oval England, and its exotic architecture is the reflection of the royal grandeur of erstwhile Patiala state.</string>
+    <string name="food_two">Its a another place where you can get tasty food. Food available are Pizza,Burgers,Mojito and many more. Great taste ,nice stuff</string>
+    <string name="food_three">Café Coffee Day, a part of Coffee Day Global Limited, is India’s favourite hangout for coffee and conversations. Popularly known as CCD, strive to provide the best experience to guests.CCD\'s coffees are sourced from thousands of small coffee planters</string>
+    <string name="food_four">McDonald\'s™ is the leading global food service retailer with more than 32,000 local restaurants serving more than 58 million people in around 130 countries each day. 70 percent of our restaurants worldwide are owned and operated by independent, local businessmen and businesswomen.</string>
+    <string name="shop_one">Levi Strauss is a privately owned American clothing company known worldwide for its Levi\'s brand of denim jeans. It was founded in May 1853 when Levi Strauss came from Buttenheim, Bavaria, to San Francisco, California to open a west coast branch of his brother\'s New York dry goods business. The company\'s corporate headquarters is located in the Levi\'s Plaza in San Francisco</string>
+    <string name="shop_two">Kapsons is a multi-category fashion and lifestyle website offering you an unmatched online shopping experience. We offer matchless e-shopping with services like cash on delivery service, authentic products, fast delivery and customer-centric approach.
+Get fashion for men, women and kids at your doorstep with latest fashion trends and stylish apparels, footwear and accessories to choose from an array of brands like Wrangler, Amante, Gant, Wills, Arrow, Jack and Jones, Blackberry, UCB, Izod, US Polo, London Fog, Flying Machine, Only, Forever New, Indian Terrain, Ed Hardy, Levis Kids, Converse, Vero Moda, Nike Kids, Gini and Jony, Jordan, Barbie, and Cutecumber to name a few.</string>
+    <string name="category_food">FOOD</string>
+    <string name="category_shop">SHOP</string>
+    <string name="category_places">PLACES</string>
+    <string name="category_citymap">CITY MAP</string>
+    <string name="shop_three">Nike, Inc. is an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services. The company is headquartered near Beaverton, Oregon, in the Portland metropolitan area.</string>
+    <string name="food_name_one">Rajindra Gymkhana and Mahindra Club</string>
+    <string name="food_name_two">Boston Bites</string>
+    <string name="food_name_three">Cafe Coffee Day</string>
+    <string name="food_name_four">McDonald\'s</string>
+    <string name="place_name_one">Sheesh Mahal</string>
+    <string name="place_name_two">Gurudwara Dukhniwaran Sahib</string>
+    <string name="place_name_three">Qila Mubarak Complex</string>
+    <string name="place_name_four">NS NIS</string>
+    <string name="shop_name_one">Levi\'s</string>
+    <string name="shop_name_two">Kapsons</string>
+    <string name="shop_name_three">Nike</string>
+    <string name="education_name_one">Thaper University</string>
+    <string name="education_name_two">Punjabi University</string>
+    <string name="education_name_three">Multani Mal Modi College</string>
+    <string name="education_one">The Thapar Institute of Engineering and Technology University is today recognized among the leading privately managed engineering institutions of the country and the best of its kind in the north-western region of India. NAAC, an Autonomous Institution of UGC, has reaccredited Thapar Institute of Engineering and Technology University and award A Grade.
+The TTC with its three institutions viz, TU, TP and TCIRD, is today a unique Campus in our country with extraordinary potential for development of indigenous technology and its engineering industries.</string>
+    <string name="education_two">Established on April 30, 1962 in the erstwhile princely state of Patiala with the main objective of furthering the cause of Punjabi language, art and literature, Punjabi University has since evolved into the largest University in the state. Spread over 600 acres of land, its 500 teachers are imparting instruction and guidance to nearly 9,000 students in a multi-faceted, multi-pronged and multi-faculty environment comprising 65 Teaching and Research Departments on its Campus, five Regional Centres, six Neighbourhood Campuses and 166 Colleges affiliated to it.</string>
+    <string name="education_three">Multani Mal Modi College is synonymous with academic excellence adorning the cultural city of Patiala. Located in the heart of the city, Multani Mal Modi College is a multi-faculty, co-educational institution established by Padma Bhushan, Rai Bahadur Seth Gujjar Mal Modi, in the fond memory of his illustrious father, Rai Bahadur Seth Multani Mal Modi. The foundation stone of the college was laid by Dr Dharam Vir, ICS, the then Governor of Punjab, on Sept 21, 1966 and the first academic session commenced in July 1967.</string>
+</resources>
